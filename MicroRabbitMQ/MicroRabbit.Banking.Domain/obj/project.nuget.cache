@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oHNMFOh7nwkVdKqtmIPAfjU8ugnLsfE8XOvsavd437L8ASEjeQlPN/tw2kV4oxuWNIYhYQ2vhav83zcK/IWnyQ==",
+  "dgSpecHash": "oAvQg1FeHWBsyqy7YAluro/rG8L7AB9dJoyH5TsmfDegJUyavOGZAXkY9VGoZ4syQ8aM1ECp5PZxJ7ZcOAXY4A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nader\\source\\repos\\MicroRabbitMQ\\MicroRabbitMQ\\MicroRabbit.Banking.Domain\\MicroRabbit.Banking.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Nader\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,3 +1,9 @@
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.csprojAssemblyReference.cache
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.AssemblyInfoInputs.cache
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.AssemblyInfo.cs
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.csproj.CoreCompileInputs.cache
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\appsettings.json
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MicroRabbit.Banking.Api.exe
@@ -9,6 +15,7 @@ C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MicroRabbit.Banking.Api.pdb
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\Humanizer.dll
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MediatR.dll
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -22,8 +29,12 @@ C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -53,12 +64,7 @@ C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MicroRabbit.Banking.Domain.pdb
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MicroRabbit.Domain.Core.pdb
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MicroRabbit.Infra.Bus.pdb
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.csprojAssemblyReference.cache
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.AssemblyInfoInputs.cache
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.AssemblyInfo.cs
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.csproj.CoreCompileInputs.cache
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\staticwebassets\MicroRabbit.Banking.Api.StaticWebAssets.Manifest.cache
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\staticwebassets\MicroRabbit.Banking.Api.StaticWebAssets.xml
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\scopedcss\bundle\MicroRabbit.Banking.Api.styles.css
@@ -68,9 +74,3 @@ C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\ref\MicroRabbit.Banking.Api.dll
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.pdb
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.genruntimeconfig.cache
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Api\obj\Debug\net5.0\MicroRabbit.Banking.Api.MvcApplicationPartsAssemblyInfo.cs

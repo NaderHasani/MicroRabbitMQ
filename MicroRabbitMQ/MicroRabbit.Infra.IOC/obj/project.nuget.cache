@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "txm8B/KbwPMnwYyb54EjRhgGnkiWMccv4PeCI/AlPe/Vq9QqE6IxwoVig6RZlT5nSVZAXTCErVWfPtGvBV0khQ==",
+  "dgSpecHash": "6NLRhP9w0HHuWbHci9KzRYsPzR7kfmOJ6lmrgmD01dCOQs/n51/PGjTR22wx894dQr81Rfx+jGzuWYoYvPn47g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nader\\source\\repos\\MicroRabbitMQ\\MicroRabbitMQ\\MicroRabbit.Infra.IOC\\MicroRabbit.Infra.IOC.csproj",
   "expectedPackageFiles": [

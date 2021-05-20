@@ -1,8 +1,3 @@
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net5.0\MicroRabbit.Banking.Application.csprojAssemblyReference.cache
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net5.0\MicroRabbit.Banking.Application.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net5.0\MicroRabbit.Banking.Application.AssemblyInfoInputs.cache
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net5.0\MicroRabbit.Banking.Application.AssemblyInfo.cs
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net5.0\MicroRabbit.Banking.Application.csproj.CoreCompileInputs.cache
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Application\bin\Debug\net5.0\MicroRabbit.Banking.Application.deps.json
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Application\bin\Debug\net5.0\MicroRabbit.Banking.Application.dll
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Application\bin\Debug\net5.0\ref\MicroRabbit.Banking.Application.dll
@@ -11,6 +6,11 @@ C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Appl
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Application\bin\Debug\net5.0\MicroRabbit.Domain.Core.dll
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Application\bin\Debug\net5.0\MicroRabbit.Banking.Domain.pdb
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Application\bin\Debug\net5.0\MicroRabbit.Domain.Core.pdb
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net5.0\MicroRabbit.Banking.Application.csprojAssemblyReference.cache
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net5.0\MicroRabbit.Banking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net5.0\MicroRabbit.Banking.Application.AssemblyInfoInputs.cache
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net5.0\MicroRabbit.Banking.Application.AssemblyInfo.cs
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net5.0\MicroRabbit.Banking.Application.csproj.CoreCompileInputs.cache
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net5.0\MicroRabbit.Banking.Application.csproj.CopyComplete
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net5.0\MicroRabbit.Banking.Application.dll
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Banking.Application\obj\Debug\net5.0\ref\MicroRabbit.Banking.Application.dll

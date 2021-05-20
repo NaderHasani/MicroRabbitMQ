@@ -1,8 +1,3 @@
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\obj\Debug\net5.0\MicroRabbit.Infra.IOC.csprojAssemblyReference.cache
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\obj\Debug\net5.0\MicroRabbit.Infra.IOC.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\obj\Debug\net5.0\MicroRabbit.Infra.IOC.AssemblyInfoInputs.cache
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\obj\Debug\net5.0\MicroRabbit.Infra.IOC.AssemblyInfo.cs
-C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\obj\Debug\net5.0\MicroRabbit.Infra.IOC.csproj.CoreCompileInputs.cache
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\bin\Debug\net5.0\MicroRabbit.Infra.IOC.deps.json
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\bin\Debug\net5.0\MicroRabbit.Infra.IOC.dll
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\bin\Debug\net5.0\ref\MicroRabbit.Infra.IOC.dll
@@ -17,7 +12,18 @@ C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\bi
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\bin\Debug\net5.0\MicroRabbit.Banking.Domain.pdb
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\bin\Debug\net5.0\MicroRabbit.Domain.Core.pdb
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\bin\Debug\net5.0\MicroRabbit.Infra.Bus.pdb
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\obj\Debug\net5.0\MicroRabbit.Infra.IOC.csprojAssemblyReference.cache
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\obj\Debug\net5.0\MicroRabbit.Infra.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\obj\Debug\net5.0\MicroRabbit.Infra.IOC.AssemblyInfoInputs.cache
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\obj\Debug\net5.0\MicroRabbit.Infra.IOC.AssemblyInfo.cs
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\obj\Debug\net5.0\MicroRabbit.Infra.IOC.csproj.CoreCompileInputs.cache
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\obj\Debug\net5.0\MicroRabbit.Infra.IOC.csproj.CopyComplete
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\obj\Debug\net5.0\MicroRabbit.Infra.IOC.dll
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\obj\Debug\net5.0\ref\MicroRabbit.Infra.IOC.dll
 C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\obj\Debug\net5.0\MicroRabbit.Infra.IOC.pdb
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\bin\Debug\net5.0\MicroRabbit.Transfer.Application.dll
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\bin\Debug\net5.0\MicroRabbit.Transfer.Data.dll
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\bin\Debug\net5.0\MicroRabbit.Transfer.Domain.dll
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\bin\Debug\net5.0\MicroRabbit.Transfer.Application.pdb
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\bin\Debug\net5.0\MicroRabbit.Transfer.Data.pdb
+C:\Users\Nader\source\repos\MicroRabbitMQ\MicroRabbitMQ\MicroRabbit.Infra.IOC\bin\Debug\net5.0\MicroRabbit.Transfer.Domain.pdb

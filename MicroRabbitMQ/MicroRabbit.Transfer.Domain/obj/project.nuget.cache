@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/HnwXgqMuXH2a7zf1dSACij9iWXT3rC75msg1cdmfnc3lumPyCFzQ29JKNZaQIpWX9m0YGaHmU+NQbGeQ+6OBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nader\\source\\repos\\MicroRabbitMQ\\MicroRabbitMQ\\MicroRabbit.Transfer.Domain\\MicroRabbit.Transfer.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nader\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
